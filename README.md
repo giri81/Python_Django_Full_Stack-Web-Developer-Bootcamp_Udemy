@@ -11,6 +11,6 @@ This repository contains practice projects I've completed as part of my studies.
 ## Contributors
 
 - [Girish Devappa](LinkedIn profile https://www.linkedin.com/in/girish-devappa-5539b4190/) 
-  I, have pushing into guthub in gradual progess of practice projects as part of my ongoing learning journey on Udemy.
+  I, have pushing into guthub in gradual progression of practice projects as part of my ongoing learning journey on Udemy.
   
 
