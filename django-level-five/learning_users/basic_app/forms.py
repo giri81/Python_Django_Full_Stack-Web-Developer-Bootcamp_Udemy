@@ -2,9 +2,9 @@ from django import forms
 from django.contrib.auth.models import User
 from .models import UserProfileInfo
 
-class UserForm(forms.ModeForm):
+class UserForm(forms.ModelForm):
 
-    password = forms.CharField(widget=PasswordInput())
+    password = forms.CharField(widget=forms.PasswordInput())
 
     class Meta():
 
@@ -17,4 +17,3 @@ class UserProfileInfoForm(forms.ModelForm):
 
         model = UserProfileInfo
         fields = ('portfolio_site','profile_pic')
-         
