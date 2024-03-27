@@ -133,7 +133,11 @@ STATICFILES_DIRS = [STATIC_DIR,]
 
 # Media
 MEDIA_ROOT = MEDIA_DIR
-MEDIA_URL = 'media/'
+MEDIA_URL = '/media/'
+
+LOGIN_URL = '/basic_app/login_url'
+
+
 
 
 # Default primary key field type
